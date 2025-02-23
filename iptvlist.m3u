@@ -65,37 +65,21 @@ http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общественные",ТВ Центр (FWVGA)
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://iptvx.one/picons/360-news.png" group-title="Информационные",360° Новости (HD)
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Информационные",RTД (HD)
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="belarus24" tvg-logo="https://iptvx.one/picons/belarus24.png" group-title="Информационные",Беларусь 24 (HD)
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="vmeste-rf" tvg-logo="https://iptvx.one/picons/vmeste-rf.png" group-title="Информационные",ВМЕСТЕ:РФ (HD)
 http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="dumatv" tvg-logo="https://iptvx.one/picons/dumatv.png" group-title="Информационные",ДУМА ТВ (HD)
 https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 tvg-id="izvestia" tvg-logo="https://iptvx.one/picons/izvestia.png" group-title="Информационные",Известия (HD)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-id="krik-tv" tvg-logo="https://iptvx.one/picons/krik-tv.png" group-title="Информационные",Крик ТВ  (HD)
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 tvg-id="lot-47" tvg-logo="https://iptvx.one/picons/lot-47.png" group-title="Информационные",Лен ТВ 24 (HD)
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
-#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Информационные",Мир 24 (HD)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="moskva-24" tvg-logo="https://iptvx.one/picons/moskva-24.png" group-title="Информационные",МОСКВА24 (EDTV)
 http://31.210.208.171:8080/moskva_24/index.m3u8?token=+W2MSER
-#EXTINF:-1 tvg-id="doverie" tvg-logo="https://iptvx.one/picons/doverie.png" group-title="Информационные",Москва Доверие (EDTV)
 http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=test
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://iptvx.one/picons/nastoiaschee-vremia.png" group-title="Информационные",Настоящее время [18+ иногент] (HD)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF:-1 tvg-id="pervy-info-by" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" group-title="Информационные",Первый информационный (HD)
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Информационные",Россия 24 (WSVGA)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Информационные",РБК (HD)
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="Информационные",Соловьев.Live (HD)
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="http://epg.one/img2/2136.png" group-title="Христианские",Life TV (WVGA)
@@ -752,3 +736,5 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://iptvx.one/picons/yumor-fm.png" group-title="Радио",Юмор FM
 http://ic7.101.ru:8000/v5_1
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-02-23 19:11:35)
+https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
