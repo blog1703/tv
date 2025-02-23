@@ -941,7 +941,7 @@ http://158.101.211.157:2020/channel/n515934c8/index.m3u8?q=2dc8bf12a0c121ff160ed
 http://178.219.128.68:64889/HGTVHD
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
-http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+http://87.99.87.203:2007/channel/4d6b2267/index.m3u8?q=66a6423f297e15732552f053875b2722
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
@@ -980,10 +980,10 @@ https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 http://stream01.vnet.am/TLC/mono.m3u8
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC HD
-http://77.239.125.42:8070/discovry_tlc/index.m3u8
+http://87.99.87.203:2007/channel/n167a21d0/index.m3u8?q=66a6423f297e15732552f053875b2722
 
-#EXTINF:-1 tvg-id="tlc-pl" group-title="Познавательные", TLC HD [PL]
-http://178.219.128.68:64888/TLC
+#EXTINF:-1 tvg-id="tlc-pl" group-title="Познавательные", TLC HD [EN]
+http://87.99.87.203:2007/channel/n782b0020/index.m3u8?q=66a6423f297e15732552f053875b2722
 
 #EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MDM5NTExNSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzM5NzkwMzE1LCJzZXNzaW9uX2lkIjoiNWJjYWFmODE2ZGIxOTRjN2NkMzUzOGY1MDM4MzA0ZDYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.wjCCop2BjvHBT39kMnnZBo755JfydpF1iHujQBx_hzs
@@ -3639,5 +3639,5 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-02-23 10:36:19)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-02-23 10:40:26)
 https://github.com/blog1703/iptv/raw/refs/heads/main/test.mp4
