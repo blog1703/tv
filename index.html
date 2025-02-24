@@ -6,25 +6,32 @@
     <title>Условная авторизация</title>
 </head>
 <body>
+    <h1>Добро пожаловать!</h1>
+    <div id="auth-form">
+        <input type="password" id="password" placeholder="Введите пароль">
+        <input type="text" id="token" placeholder="Введите токен">
+        <button onclick="checkAuth()">Войти</button>
+    </div>
     <div id="content" style="display: none;">
-        <h1>Добро пожаловать!</h1>
         <p>Ваши M3U-ссылки:</p>
         <ul>
-            <li><a href="iptv.m3u">Плейлист 1</a></li>
-            <li><a href="playlist.m3u">Плейлист 2</a></li>
+            <li><a href="playlist1.m3u">Плейлист 1</a></li>
+            <li><a href="playlist2.m3u">Плейлист 2</a></li>
         </ul>
     </div>
 
     <script>
-        // Получаем параметр из URL
-        const urlParams = new URLSearchParams(window.location.search);
-        const token = urlParams.get('token');
+        function checkAuth() {
+            const password = document.getElementById('password').value;
+            const token = document.getElementById('token').value;
 
-        // Условие авторизации
-        if (token === "ваш_секретный_токен") {
-            document.getElementById('content').style.display = 'block';
-        } else {
-            document.body.innerHTML = "<h1>Доступ запрещён!</h1>";
+            // Условия авторизации
+            if (password === "ваш_пароль" && token === "ваш_токен") {
+                document.getElementById('auth-form').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+            } else {
+                alert("Неверный пароль или токен!");
+            }
         }
     </script>
 </body>
