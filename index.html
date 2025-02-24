@@ -4,40 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Приватная страница</title>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
     <h1>Добро пожаловать!</h1>
     <div id="auth-form">
         <input type="password" id="password" placeholder="Введите пароль">
         <input type="text" id="token" placeholder="Введите токен">
+        <div class="g-recaptcha" data-sitekey="ваш_site_key"></div>
         <button onclick="checkAuth()">Войти</button>
     </div>
     <div id="content" style="display: none;">
         <p>Ваши M3U-ссылки:</p>
         <ul>
-            <li><a href="iptv.m3u">Плейлист 1</a></li>
-            <li><a href="iptvlist.m3u">Плейлист 2</a></li>
+            <li><a href="playlist1.m3u">Плейлист 1</a></li>
+            <li><a href="playlist2.m3u">Плейлист 2</a></li>
         </ul>
     </div>
 
     <script>
         function checkAuth() {
-            // Ваши значения пароля и токена
-            const correctPassword = "100268"; // Замените на свой пароль
-            const correctToken = "100268"; // Замените на свой токен
+            const correctPassword = "1002";
+            const correctToken = "1002";
 
-            // Получаем введенные пользователем данные
             const password = document.getElementById('password').value;
             const token = document.getElementById('token').value;
+            const captchaResponse = grecaptcha.getResponse();
 
-            // Проверяем введенные данные
-            if (password === correctPassword && token === correctToken) {
-                // Если пароль и токен верны, показываем контент
+            if (password === correctPassword && token === correctToken && captchaResponse) {
                 document.getElementById('auth-form').style.display = 'none';
                 document.getElementById('content').style.display = 'block';
             } else {
-                // Если данные неверны, показываем ошибку
-                alert("Неверный пароль или токен!");
+                alert("Неверный пароль, токен или CAPTCHA!");
             }
         }
     </script>
