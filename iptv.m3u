@@ -280,7 +280,7 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар
-https://tv.movielab.pro/4111/video.m3u8?token=4b70743ed82848c75322a7c501a8c1fa74fa46f3-8ad2e24365e9accd2b69128f66f9ff35-1740643405-1740557005
+https://tv.movielab.pro/4111/video.m3u8?token=26de2744d06c859f7cd5944e3de05405b869cb24-98fd37344189ec921e1d020696d7b2a6-1740686111-1740599711
 
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="Спортивные", FightBox
 http://stream01.vnet.am/Fightbox/index.m3u8
@@ -324,6 +324,9 @@ http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1HD.m3u8
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 CCE
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
+http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
 http://45.11.139.43:8555/eurosport1/index.m3u8
 
@@ -333,11 +336,14 @@ https://tv.movielab.pro/145/video.m3u8?token=d585270dc008b68e0372d5da3ec1a6cb570
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://cdn.admuspeh.my/8163/video.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
+http://nodns1.top:8080/10170550054028/51739379482781/51962
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [PL]
-http://87.99.87.203:2020/channel/6d393086/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://pro.ipcover.lol:8080/Alexis58174/857164/401957
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
+http://nodns1.top:8080/38170638485767/91739876651327/51962
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/eurosport-hd-live-logo.png" tvg-id="no_epg_sport" group-title="Спортивные", live Eurosport GOLD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
@@ -907,13 +913,13 @@ http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV HD
-http://87.99.87.203:2020/channel/n515934c8/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+https://bl.rutube.ru/livestream/e47323270d6128efe76594deede78394/index.m3u8?s=lOifjGe-jV5Upb9Fc6ZknQ&e=1740690211&scheme=https
 
 #EXTINF:-1 tvg-id="hgtv-pl" group-title="Познавательные", HGTV HD [PL]
 http://178.219.128.68:64889/HGTVHD
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
-http://87.99.87.203:2007/channel/4d6b2267/index.m3u8?q=66a6423f297e15732552f053875b2722
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://stream01.vnet.am/Channel_123/mono.m3u8
@@ -3575,5 +3581,5 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-02-26 19:15:09)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-02-27 07:17:52)
 https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
