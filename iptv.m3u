@@ -902,7 +902,7 @@ https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst
 http://91.146.94.234:10000/play/a04e
 
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные",TLC HD
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/232.m3u8
 
 #EXTINF:-1 tvg-id="bobior" group-title="Познавательные",Бобёр
 https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NTIwMjU4NSwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQ0NTk3Nzg1LCJzZXNzaW9uX2lkIjoiZmNjZmEyYmIyMTMwOTBkNzZiOWEyMGY3MmM4NjQ4NDQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.E96GI_YQPBxXPy-WE_BTpJNMYXaIivzIQ2r-zcbkz6w
@@ -7494,14 +7494,14 @@ http://cdn.adultiptv.net/pornstar.m3u8
 http://cdn.adultiptv.net/lesbian.m3u8
 
 http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-04-15 19:15:59)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-04-16 07:19:51)
 https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
 
-#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-04-15 19:15:59)
+#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-04-16 07:19:51)
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-04-15 19:15:59)
+#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-04-16 07:19:51)
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-04-15 19:15:59)
+#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-04-16 07:19:51)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
