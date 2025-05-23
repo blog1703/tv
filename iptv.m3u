@@ -8223,14 +8223,14 @@ https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
 http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
 
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-05-22 19:17:04)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-05-23 07:20:31)
 https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
 
-#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-05-22 19:17:04)
+#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-05-23 07:20:31)
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-05-22 19:17:04)
+#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-05-23 07:20:31)
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-05-22 19:17:04)
+#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-05-23 07:20:31)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
