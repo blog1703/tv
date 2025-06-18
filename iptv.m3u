@@ -2652,7 +2652,6 @@ http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
 
 
 
-
 #EXTINF:-1 group-title="Кинозалы Rutube", Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=rI4VoSGS_J9qcYH62iss3g&e=1750274619&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube", НТВ HD
@@ -4495,14 +4494,14 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://alimentaryrecipes.com/images/stations/russkiehiti.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-06-18 07:20:58)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-06-18 19:16:57)
 https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
 
-#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-06-18 07:20:58)
+#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-06-18 19:16:57)
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-06-18 07:20:58)
+#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-06-18 19:16:57)
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-06-18 07:20:58)
+#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-06-18 19:16:57)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
