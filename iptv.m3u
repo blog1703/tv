@@ -4485,14 +4485,14 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://alimentaryrecipes.com/images/stations/russkiehiti.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-06-19 19:15:10)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/blog1703/tvonline/refs/heads/main/logo.png" group-title="INFO", Поддержка проекта (Обновлено: 2025-06-20 07:20:23)
 https://github.com/blog1703/tv/raw/refs/heads/main/test.mp4
 
-#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-06-19 19:15:10)
+#EXTINF:-1 tvg-id="krym24" group-title="INFO", Крым 24 (Обновлено: 2025-06-20 07:20:23)
 http://live24.trkcrimea.ru/24tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-06-19 19:15:10)
+#EXTINF:-1 group-title="INFO",Первый Крымский (Обновлено: 2025-06-20 07:20:23)
 http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
-#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-06-19 19:15:10)
+#EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-06-20 07:20:23)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
