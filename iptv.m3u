@@ -1774,8 +1774,17 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 #EXTINF:-1 group-title="Кино и сериалы", Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc2MTUzMDQyOCwiaHdpZCI6IjI4YzUzMGRkNTE5NmIwZjQ0ZjkyY2ZhN2RhODVkZDU2ZDE2ZTQ4YjRhZjU2MTA5NTk1YmExNmZkMjYyYzRmNTAiLCJsYXN0X3JlcV9kYXRlIjoxNzYwOTI1NjI4LCJzZXNzaW9uX2lkIjoiY2UzZDlhZTA3NTJlYmJhYWYyNDU4NDI1MjJjZjhkY2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.nQarfxv2-Q1EvSL_fuJxWZA2GV6Z1C4vwkTUVIHJUXA
+#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Советская киноклассика HD
+http://e507e498.otttv.pw/iptv/DPU7GU7KPK5VLVW9MPWGY56W/2034/index.m3u8
+
+#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Yosso TV Советские Фильмы
+http://e507e498.otttv.pw/iptv/DPU7GU7KPK5VLVW9MPWGY56W/14174/index.m3u8
+
+#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Yosso TV Советские Фильмы 4K
+http://e507e498.otttv.pw/iptv/DPU7GU7KPK5VLVW9MPWGY56W/19434/index.m3u8
+
+#EXTINF:-1 tvg-id="sov-kinklass" group-title="Кино и сериалы",Триколор Советские мультфильмы
+http://e507e498.otttv.pw/iptv/DPU7GU7KPK5VLVW9MPWGY56W/18134/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
@@ -3992,4 +4001,5 @@ http://live1.trkcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 group-title="INFO",Сочи 24 (Обновлено: 2025-10-02 07:18:23)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
 
